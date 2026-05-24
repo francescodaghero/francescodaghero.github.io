@@ -1,6 +1,7 @@
 ---
 title: "Adaptive random forests for energy-efficient inference on microcontrollers"
 collection: publications
+category: conferences
 permalink: /publication/2021-01-01-Adaptive-random-forests-for-energy-efficient-inference-on-microcontrollers
 date: 2021-01-01
 venue: 'In the proceedings of 2021 IFIP/IEEE 29th International Conference on Very Large Scale Integration (VLSI-SoC)'

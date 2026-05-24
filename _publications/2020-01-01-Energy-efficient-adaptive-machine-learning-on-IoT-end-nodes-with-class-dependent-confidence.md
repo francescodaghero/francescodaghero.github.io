@@ -1,6 +1,7 @@
 ---
 title: "Energy-efficient adaptive machine learning on IoT end-nodes with class-dependent confidence"
 collection: publications
+category: conferences
 permalink: /publication/2020-01-01-Energy-efficient-adaptive-machine-learning-on-IoT-end-nodes-with-class-dependent-confidence
 date: 2020-01-01
 venue: 'In the proceedings of 2020 27th IEEE International Conference on Electronics, Circuits and Systems (ICECS)'

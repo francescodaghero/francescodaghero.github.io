@@ -1,6 +1,7 @@
 ---
 title: "Machine Learning-based feasibility estimation of digital blocks in BCD technology"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-Machine-Learning-based-feasibility-estimation-of-digital-blocks-in-BCD-technology
 date: 2024-01-01
 venue: 'In the proceedings of 2024 IEEE International Conference on Design, Test and Technology of Integrated Systems (DTTIS)'

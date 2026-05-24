@@ -1,6 +1,7 @@
 ---
 title: "Human activity recognition on microcontrollers with quantized and adaptive deep neural networks"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-Human-activity-recognition-on-microcontrollers-with-quantized-and-adaptive-deep-neural-networks
 date: 2022-01-01
 venue: 'ACM Transactions on Embedded Computing Systems (TECS)'

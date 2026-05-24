@@ -1,6 +1,7 @@
 ---
 title: "Ultra-compact binary neural networks for human activity recognition on RISC-V processors"
 collection: publications
+category: conferences
 permalink: /publication/2021-01-01-Ultra-compact-binary-neural-networks-for-human-activity-recognition-on-RISC-V-processors
 date: 2021-01-01
 venue: 'In the proceedings of Proceedings of the 18th ACM International Conference on Computing Frontiers (CF)'

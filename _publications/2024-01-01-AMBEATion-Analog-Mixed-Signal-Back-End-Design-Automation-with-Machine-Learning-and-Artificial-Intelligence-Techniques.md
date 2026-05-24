@@ -1,6 +1,7 @@
 ---
 title: "AMBEATion: Analog Mixed-Signal Back-End Design Automation with Machine Learning and Artificial Intelligence Techniques"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-AMBEATion-Analog-Mixed-Signal-Back-End-Design-Automation-with-Machine-Learning-and-Artificial-Intelligence-Techniques
 date: 2024-01-01
 venue: 'In the proceedings of 2024 Design, Automation and Test in Europe Conference and Exhibition (DATE)'

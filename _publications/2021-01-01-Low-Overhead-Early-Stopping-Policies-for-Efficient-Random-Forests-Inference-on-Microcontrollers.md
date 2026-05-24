@@ -1,6 +1,7 @@
 ---
 title: "Low-Overhead Early-Stopping Policies for Efficient Random Forests Inference on Microcontrollers"
 collection: publications
+category: conferences
 permalink: /publication/2021-01-01-Low-Overhead-Early-Stopping-Policies-for-Efficient-Random-Forests-Inference-on-Microcontrollers
 date: 2021-01-01
 venue: 'In the proceedings of IFIP/IEEE International Conference on Very Large Scale Integration-System on a Chip'

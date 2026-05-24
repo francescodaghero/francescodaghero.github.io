@@ -1,6 +1,7 @@
 ---
 title: "Lightweight Software Kernels and Hardware Extensions for Efficient Sparse Deep Neural Networks on Microcontrollers"
 collection: publications
+category: conferences
 permalink: /publication/2025-01-01-Lightweight-Software-Kernels-and-Hardware-Extensions-for-Efficient-Sparse-Deep-Neural-Networks-on-Microcontrollers
 date: 2025-01-01
 venue: 'In the proceedings of MLSys'

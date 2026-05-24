@@ -1,6 +1,7 @@
 ---
 title: "Accelerating Depthwise Separable Convolutions on Ultra-Low-Power Devices"
 collection: publications
+category: conferences
 permalink: /publication/2024-01-01-Accelerating-Depthwise-Separable-Convolutions-on-Ultra-Low-Power-Devices
 date: 2024-01-01
 venue: 'In the proceedings of International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation'

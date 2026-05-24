@@ -1,6 +1,7 @@
 ---
 title: "MATCH: Model-Aware TVM-Based Compilation for Heterogeneous Edge Devices"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-MATCH-Model-Aware-TVM-Based-Compilation-for-Heterogeneous-Edge-Devices
 date: 2025-01-01
 venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)'

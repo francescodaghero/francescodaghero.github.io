@@ -1,6 +1,7 @@
 ---
 title: "Predicting Digital Layout Success in Analog-on-Top Designs using Machine Learning"
 collection: publications
+category: conferences
 permalink: /publication/2025-01-01-Predicting-Digital-Layout-Success-in-Analog-on-Top-Designs-using-Machine-Learning
 date: 2025-01-01
 venue: 'In the proceedings of Presented at 23rd IEEE International NEWCAS Conference (NEWCAS)'

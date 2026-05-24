@@ -1,6 +1,7 @@
 ---
 title: "Two-stage human activity recognition on microcontrollers with decision trees and CNNs"
 collection: publications
+category: conferences
 permalink: /publication/2022-01-01-Two-stage-human-activity-recognition-on-microcontrollers-with-decision-trees-and-CNNs
 date: 2022-01-01
 venue: 'In the proceedings of 2022 17th Conference on Ph. D Research in Microelectronics and Electronics (PRIME)'

@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Decision Tree Ensembles for Energy-Efficient Inference on IoT Edge Nodes"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Dynamic-Decision-Tree-Ensembles-for-Energy-Efficient-Inference-on-IoT-Edge-Nodes
 date: 2023-01-01
 venue: 'IEEE Internet of Things Journal (IOTJ)'

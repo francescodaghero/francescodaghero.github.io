@@ -1,6 +1,7 @@
 ---
 title: "Reducing the Energy Consumption of sEMG-Based Gesture Recognition at the Edge Using Transformers and Dynamic Inference"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Reducing-the-Energy-Consumption-of-sEMG-Based-Gesture-Recognition-at-the-Edge-Using-Transformers-and-Dynamic-Inference
 date: 2023-01-01
 venue: 'Sensors'

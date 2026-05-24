@@ -1,6 +1,7 @@
 ---
 title: "Model-Driven Dataset Generation for Data-Driven Battery SOH Models"
 collection: publications
+category: conferences
 permalink: /publication/2023-01-01-Model-Driven-Dataset-Generation-for-Data-Driven-Battery-SOH-Models
 date: 2023-01-01
 venue: 'In the proceedings of 2023 IEEE/ACM International Symposium on Low Power Electronics and Design (ISLPED)'

@@ -1,6 +1,7 @@
 ---
 title: "Sequence-to-sequence neural networks inference on embedded processors using dynamic beam search"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-Sequence-to-sequence-neural-networks-inference-on-embedded-processors-using-dynamic-beam-search
 date: 2020-01-01
 venue: 'Electronics'

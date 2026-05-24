@@ -1,6 +1,7 @@
 ---
 title: "Efficient Deep Learning Models for Privacy-preserving People Counting on Low-resolution Infrared Arrays"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-Efficient-Deep-Learning-Models-for-Privacy-preserving-People-Counting-on-Low-resolution-Infrared-Arrays
 date: 2023-01-01
 venue: 'IEEE Internet of Things Journal'

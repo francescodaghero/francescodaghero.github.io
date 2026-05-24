@@ -1,6 +1,7 @@
 ---
 title: "Energy-efficient deep learning inference on edge devices"
 collection: publications
+category: books
 permalink: /publication/2021-01-01-Energy-efficient-deep-learning-inference-on-edge-devices
 date: 2021-01-01
 venue: 'In the proceedings of Advances in Computers'
