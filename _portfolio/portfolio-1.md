@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Danish Trainer"
+excerpt: "A tiny card-based engine to train your knowledge of danish. Available [here](https://francescodaghero.github.io/tiny-danish-trainer/)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+An experiment that included a lot of vibe-coding with the goal of making Danish funnier to study. 
+It was the perfect way to try a bit of pyscript though, an amazing solution for people that are not too expert on javascript.
+You can find it [here](https://francescodaghero.github.io/tiny-danish-trainer/)
